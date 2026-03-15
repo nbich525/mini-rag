@@ -38,4 +38,4 @@ Open http://127.0.0.1:8000/docs in your browser.
 
 ### 4. Run test
 
-Run `python test.py`
+Run `python test.py`.
